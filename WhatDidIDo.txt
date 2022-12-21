@@ -1,0 +1,10 @@
+1、爬取offer
+2、将offer的json进行数据清理，找出学校、用户信息
+3、统计学校数量，正负样本数量
+4、将用户信息部分（gre 雅思 托福 本科背景）转换成 string
+5、将用户信息部分的string使用bert模型转换成embedding，将embedding格式化成28*28
+6、存储embedding和label的信息
+7、放入写好的CNN模型中训练
+
+
+需要配置bert、nltk、pytorch
