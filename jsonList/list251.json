@@ -1,0 +1,2254 @@
+{
+    "code": 200,
+    "data": {
+        "page": 251,
+        "limit": 50,
+        "count": 105533,
+        "data": [
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 7,
+                "schoolname": "Technical University of Denmark",
+                "professional": "Human-Centered Artificial Intelligence",
+                "countries": "丹麦",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": "6.5",
+                        "reading": "7.5",
+                        "writing": "6.5",
+                        "speaking": "6",
+                        "listening": "6.0"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.22/5.0",
+                        "sid": 2080,
+                        "year": 2020,
+                        "school": "双非",
+                        "subject": "城乡规划"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/xtuD82y1qJpSNpjNaaVhP3DPND1M7k20z5XUnEgNvCoXkY84y171eI82aeNmam4Rl6b_-OtzSNqJza3mtQ89azlhZTc~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Royal Institute of Technology",
+                "professional": "Molecular Techniques in Life Sciences",
+                "countries": "瑞典",
+                "project": "同上",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "325",
+                        "verbal": "157",
+                        "quantitative": "168",
+                        "analyticalwriting": "3.5"
+                    },
+                    "ielts": {
+                        "total": "7.5",
+                        "reading": "8.5",
+                        "writing": "6.5",
+                        "speaking": "6",
+                        "listening": "8"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.9/5.0 7/92",
+                        "sid": 1602,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "药学"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/dGzlsdrD0HibSChBzX-zdwgimZ4H_MdVQlpP5ngrIOrGcthE34PTnrU9MWErWzMtWoYyXXis5ObrmXXhb7D6NTNhNDE~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 10,
+                "schoolname": "KU Leuven",
+                "professional": "Computer Science",
+                "countries": "比利时",
+                "project": null,
+                "message": null,
+                "degree": "Meng",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "98"
+                    },
+                    "undergraduate": {
+                        "gpa": "15/20",
+                        "year": 2021,
+                        "school": "Sorbonne Universite",
+                        "subject": "CS + EE 双学位"
+                    }
+                },
+                "username": "tilos",
+                "url": "https://offer.gter.net/details/__6lRb4dpUtPkYXbbnj4dlwZc7uy5RMPGmh_BRbRR0j2x2v8WcX_UVXUPjYQQKAx3A1C3wVt244TcR-KJMTuuzFmNDM~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 5,
+                "schoolname": "The University of Hong Kong",
+                "professional": "Journalism",
+                "countries": "香港",
+                "project": "master of Journalism",
+                "message": null,
+                "degree": "其它",
+                "degree_other": "master of Journalism",
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ptea": {
+                        "total": "82"
+                    },
+                    "ielts": {
+                        "total": "7.5",
+                        "reading": "9",
+                        "writing": "6",
+                        "speaking": "6",
+                        "listening": "8"
+                    },
+                    "graduate": {
+                        "gpa": "3.66/4.3",
+                        "year": 2021,
+                        "school": "非港三",
+                        "subject": "语言类"
+                    },
+                    "undergraduate": {
+                        "gpa": "87.4",
+                        "sid": 677,
+                        "year": 2020,
+                        "school": "双非",
+                        "subject": "小语种"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/MeCa85iwFFUmyECrJrwgjYgSzzcZPiP_0b9GhWCTjgrAAwFazj5U-nHErraStNtOQK7aP2OxtODkQqZBaPIJozczOGM~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 2,
+                "schoolname": "University of Cambridge",
+                "professional": "Law",
+                "countries": "英国",
+                "project": null,
+                "message": null,
+                "degree": "LLM",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "112",
+                        "reading": "30",
+                        "writing": "25",
+                        "speaking": "27",
+                        "listening": "30"
+                    },
+                    "graduate": {
+                        "sid": 1,
+                        "school": "清华/北大/中科大"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.7+/4.0 S",
+                        "sid": 1,
+                        "year": 2021,
+                        "school": "清华/北大/中科大",
+                        "subject": "法学"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/P8CjZKSK5HPBXp2_o2i4aEwECyKimIf5-t-HRv88AQEFuMWtQfK-CScyYCK8gJA8PV6sOu7zPOzS6PR2KJepTDVkNWE~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Delft University of Technology",
+                "professional": "Electrical Engineering",
+                "countries": "荷兰",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-12",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "317",
+                        "verbal": "152",
+                        "quantitative": "165",
+                        "analyticalwriting": "3"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "30",
+                        "writing": "27",
+                        "speaking": "22",
+                        "listening": "29"
+                    },
+                    "undergraduate": {
+                        "gpa": "83.35",
+                        "sid": 354,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "ee"
+                    }
+                },
+                "username": "unlucky",
+                "url": "https://offer.gter.net/details/9JSrPI-8_jb0bJiuaXS28lDyBVqy8OfRNe7eqn5gLZBIGeq65YFPKL7z9pnHDXjWTfXLqT2ACnrtL3KqH9EGHzdlMTE~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Aarhus University",
+                "professional": "Electrical Engineering",
+                "countries": "丹麦",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-08",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "317",
+                        "verbal": "152",
+                        "quantitative": "165",
+                        "analyticalwriting": "3"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "30",
+                        "writing": "27",
+                        "speaking": "22",
+                        "listening": "29"
+                    },
+                    "undergraduate": {
+                        "gpa": "83.35",
+                        "sid": 354,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "ee"
+                    }
+                },
+                "username": "unlucky",
+                "url": "https://offer.gter.net/details/YWtTUN__md77LyQnyKNrsSyEt8v0VMO39KFgSAa0lrYyYW6Ar-vsr8tJUpQqUt6Kg07DjKxq-TPuPv6SrUJqlDdkNjQ~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Eindhoven University of Technology",
+                "professional": "Electrical Engineering",
+                "countries": "荷兰",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-01-28",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "317",
+                        "verbal": "152",
+                        "quantitative": "165",
+                        "analyticalwriting": "3"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "30",
+                        "writing": "27",
+                        "speaking": "22",
+                        "listening": "29"
+                    },
+                    "undergraduate": {
+                        "gpa": "83.35",
+                        "sid": 354,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "ee"
+                    }
+                },
+                "username": "unlucky",
+                "url": "https://offer.gter.net/details/TJLOXPtdF-xWBB2YxyxGzGcjvxVo_Rvsa50i9PWysM5uKlfjYqtMCLBRa3pGUrQAd4fAhZwOkfoXiedjB0tqyDBhM2Y~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 7,
+                "schoolname": "Technical University of Denmark",
+                "professional": "Communication Technologies and System Design",
+                "countries": "丹麦",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2020-12-07",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "317",
+                        "verbal": "152",
+                        "quantitative": "165",
+                        "analyticalwriting": "3"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "30",
+                        "writing": "27",
+                        "speaking": "22",
+                        "listening": "29"
+                    },
+                    "undergraduate": {
+                        "gpa": "83.35",
+                        "sid": 354,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "ee"
+                    }
+                },
+                "username": "unlucky",
+                "url": "https://offer.gter.net/details/G_PWuROx38F76mE8YYZGXkGxAyoBYSU7IpDN1qWPBvD0VDWXLBPQNCSOHyTCrZ5YOHrbqpOThv02KqMJwUBdvWMyNWE~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "University of Twente",
+                "professional": "Electrical Engineering",
+                "countries": "荷兰",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2020-11-06",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "317",
+                        "verbal": "152",
+                        "quantitative": "165",
+                        "analyticalwriting": "3"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "30",
+                        "writing": "27",
+                        "speaking": "22",
+                        "listening": "29"
+                    },
+                    "undergraduate": {
+                        "gpa": "83.35",
+                        "sid": 354,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "ee"
+                    }
+                },
+                "username": "unlucky",
+                "url": "https://offer.gter.net/details/bGjJYRx6pod7vsrX2_fGqSktp6xt3XPcFCPu9JyM9KzIzzMGHeXRUf1MXewfJbOxwy405flZZSCTg2R0aTi5LjNjMzc~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 10,
+                "schoolname": "University Leiden",
+                "professional": "Computer Science",
+                "countries": "荷兰",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2020-11-25",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "317",
+                        "verbal": "152",
+                        "quantitative": "165",
+                        "analyticalwriting": "3"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "30",
+                        "writing": "27",
+                        "speaking": "22",
+                        "listening": "29"
+                    },
+                    "undergraduate": {
+                        "gpa": "83.35",
+                        "sid": 354,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "ee"
+                    }
+                },
+                "username": "unlucky",
+                "url": "https://offer.gter.net/details/WPeDv_-mH2YVdkX58fb6TjVxGRKsHir5gE176_e9NKCF8sg79rJEoIWkSpXOfP-IzWO51R1TeFzWzyJE43jHi2FkMzE~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 7,
+                "schoolname": "Technical University of Denmark",
+                "professional": "human centered artificial intelligence",
+                "countries": "丹麦",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": "6.5"
+                    },
+                    "undergraduate": {
+                        "gpa": "84.9",
+                        "sid": 669,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "电子信息科学与技术"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/BkO0umpKGZZCTKWKc5WVXcaJhDNLS7DiNFaI4SJ9aWPXY0PsfQrjv5DoOMkJKDNETRoE9-UlSpHkgj-IF11IJzc3MDU~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Graduate Institute Geneva",
+                "professional": "Master in international affair",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "320",
+                        "verbal": "155",
+                        "quantitative": "165",
+                        "analyticalwriting": "3"
+                    },
+                    "ielts": {
+                        "total": "7.5",
+                        "reading": "9",
+                        "writing": "6.5",
+                        "speaking": "7",
+                        "listening": "8"
+                    },
+                    "undergraduate": {
+                        "gpa": "87.93",
+                        "sid": 1411,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "行政管理 辅修金融"
+                    }
+                },
+                "username": "lulululgc",
+                "url": "https://offer.gter.net/details/7AXs3lAADdjqtDZM_v_oo0wlPAc5er8xVEAJ-my4OH3XCMhrOvPtE9gAUl_-bRqc5-13YhSysQvGO1UtiMUQGTNhOTk~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Groningen",
+                "professional": "Classical, Medieval and Early Modern Studies (Research)",
+                "countries": "荷兰",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-09",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": "7.5",
+                        "reading": "8.5",
+                        "writing": "7.0",
+                        "speaking": "6.5",
+                        "listening": "8.5"
+                    },
+                    "undergraduate": {
+                        "gpa": "89.4",
+                        "sid": 86,
+                        "year": 2019,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "世界史"
+                    }
+                },
+                "username": "BirdGod",
+                "url": "https://offer.gter.net/details/mrygPu7bgfXS-nc0hedpz8k7yYNxRmfqSBdH0TO8lcyJM3EugcO0cpfjiVTck5E2zZWctDW9QDCA-ZQdsMOwqzVkMTE~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Eidgenossische Technische Hochschule Zürich",
+                "professional": "Science, Technology and Policy",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "326",
+                        "verbal": "157",
+                        "quantitative": "169",
+                        "analyticalwriting": "3"
+                    },
+                    "ielts": {
+                        "total": "7.5",
+                        "reading": "8",
+                        "writing": "6",
+                        "speaking": "7",
+                        "listening": "8.5"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.5/4.0",
+                        "sid": 1,
+                        "year": 2021,
+                        "school": "清华/北大/中科大",
+                        "subject": "城乡规划（五年制）"
+                    }
+                },
+                "username": "RachelKeepgoing",
+                "url": "https://offer.gter.net/details/cRcLW62kjU5nAxBSHk2bR_2O96xjruut7oahBAPtyKCDsQpl4ujJej5tMgYJK4LPBesGihOwFD6njYUwjaOz6Tc5ZWM~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 7,
+                "schoolname": "Eidgenossische Technische Hochschule Zürich",
+                "professional": "Spatial Development and Infrastructure Systems",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "326",
+                        "verbal": "157",
+                        "quantitative": "169",
+                        "analyticalwriting": "3"
+                    },
+                    "ielts": {
+                        "total": "7.5",
+                        "reading": "8",
+                        "writing": "6",
+                        "speaking": "7",
+                        "listening": "8.5"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.5/4.0",
+                        "sid": 1,
+                        "year": 2021,
+                        "school": "清华/北大/中科大",
+                        "subject": "城乡规划（五年制）"
+                    }
+                },
+                "username": "RachelKeepgoing",
+                "url": "https://offer.gter.net/details/_OH89LkGbfiMX718Mzwl8_SXNFKTVsSy74oaf6IX4ws5eEYLvY8DRx39Y_0KD1rpPsPrENv00Cu-IBLRcaR__mNjMTc~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "Graduate Institute Geneva",
+                "professional": "Economics and Econometrics",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "quantitative": "170",
+                        "analyticalwriting": "4.5"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/zkV6zYW0MoOFxUNytd7nRjOkVs-cmQFYM0jWpS77lgGrarAHMVgyRBBgTLL7dRoGelxj5_F62lPLz33XOu5Er2UyYjE~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "University College London",
+                "professional": "Economics and Econometrics",
+                "countries": "英国",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-02-25",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "quantitative": "170",
+                        "analyticalwriting": "4.5"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/lcADCHu2FNKR0jbd0oEm7K4-OIBike9IdBppFqe-n607fyqukPcRcfypRw5UERj681rDKxMnKDBNI5qaMqs9gTA0YWY~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 2,
+                "schoolname": "Pennsylvania State University,University Park ",
+                "professional": "Law",
+                "countries": null,
+                "project": null,
+                "message": null,
+                "degree": "LLM",
+                "degree_other": null,
+                "apply_results": "AD小奖",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-02-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": "6.5"
+                    },
+                    "graduate": {
+                        "school": "五院四系学硕"
+                    },
+                    "undergraduate": {
+                        "gpa": "1/242",
+                        "school": "双非 ",
+                        "subject": "法学"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/BiGrCbbgZavU3BFyNaCJOWQOPupp14L9VHRv0A2MLOYw1mdxIPQE6bQHrlTtbkunbfn2jobj7ZeFdbCarW2C72M3NTA~",
+                "apply_resultstatus": 2
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "McGill University",
+                "professional": "Accounting",
+                "countries": "加拿大",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-12",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "329",
+                        "verbal": "159",
+                        "quantitative": "170",
+                        "analyticalwriting": "4"
+                    },
+                    "toefl": {
+                        "total": "115",
+                        "reading": "30",
+                        "writing": "29",
+                        "speaking": "26",
+                        "listening": "30"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/w_PIBZ5OZ63gNSvVQawPH0n8_zvqtZYNVdlPgJFnYFO77-lbftsHCSxCtKdEuaNRfWRsFeMONuqQQ1v-eKsoJjY2MDQ~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 3,
+                "schoolname": "Graduate Institute Geneva",
+                "professional": "international economics",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "333",
+                        "verbal": "163",
+                        "quantitative": "170",
+                        "analyticalwriting": "4"
+                    },
+                    "toefl": {
+                        "total": "111",
+                        "reading": "30",
+                        "writing": "29",
+                        "speaking": "24",
+                        "listening": "28"
+                    },
+                    "graduate": {
+                        "gpa": "94",
+                        "sid": 1,
+                        "year": 2016,
+                        "school": "清华/北大/中科大",
+                        "subject": "计量经济"
+                    },
+                    "undergraduate": {
+                        "gpa": "94 （1/23）",
+                        "sid": 86,
+                        "year": 2013,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "统计"
+                    }
+                },
+                "username": "Maybee_sheep",
+                "url": "https://offer.gter.net/details/WWDdL4lqbNhTNPmLnyhsfsjvuaYlzjQaurZNPm0yt4phn7tkcPmxNx9gEE26vNKDMsBdwlHzqDiVqNBwUF0TyTZiZTk~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 3,
+                "schoolname": "Graduate Institute Geneva",
+                "professional": "international economics",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "333",
+                        "verbal": "163",
+                        "quantitative": "170",
+                        "analyticalwriting": "4"
+                    },
+                    "toefl": {
+                        "total": "111",
+                        "reading": "30",
+                        "writing": "29",
+                        "speaking": "24",
+                        "listening": "28"
+                    },
+                    "graduate": {
+                        "gpa": "94",
+                        "sid": 1,
+                        "year": 2016,
+                        "school": "清华/北大/中科大",
+                        "subject": "计量经济"
+                    },
+                    "undergraduate": {
+                        "gpa": "94 （1/23）",
+                        "sid": 86,
+                        "year": 2013,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "统计"
+                    }
+                },
+                "username": "Maybee_sheep",
+                "url": "https://offer.gter.net/details/V09RQO-YC8KzMHVimlSO_GR0IulAayn-G-HmnGw2_kl_SZ9Dyh8vmZVwfJULu3PRBci-MhNLe5kEvUdl3Xz4YDQ4ZGM~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Edinburgh",
+                "professional": "GIS",
+                "countries": "英国",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": "6.5",
+                        "reading": "6.5",
+                        "writing": "6",
+                        "speaking": "6",
+                        "listening": "6.5"
+                    },
+                    "undergraduate": {
+                        "gpa": "84.76",
+                        "sid": 1405,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "GIS"
+                    }
+                },
+                "username": "glo每天都不困",
+                "url": "https://offer.gter.net/details/8QNX06JAX0ITdJry63WjKYX3YM2gi-N56V0_kcoZ4eUtufNCfV-ruMfL1Y6CBNfgIvtybl1YrS_CBCZDE93IMTE4NTA~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Australian National University",
+                "professional": "Computing（advanced）",
+                "countries": "澳大利亚",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "320",
+                        "verbal": "152",
+                        "quantitative": "168",
+                        "analyticalwriting": "3.5"
+                    },
+                    "gmat": {
+                        "total": "700"
+                    },
+                    "ielts": {
+                        "total": "7",
+                        "reading": "8.5",
+                        "writing": "6",
+                        "speaking": "6",
+                        "listening": "7.5"
+                    },
+                    "toefl": {
+                        "total": "100",
+                        "reading": "29",
+                        "writing": "22",
+                        "speaking": "23",
+                        "listening": "26"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.32/4 23%",
+                        "year": 2021,
+                        "school": "上海财经大学",
+                        "subject": "计算机科学与技术"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/m2HqehwT5NYoAUCq-aeOv5yjzkqruZYoSF__N2HGS3lEOMvJaUGhQ-8xfkX-dA0J5IfwD5SW2Y3AeDBtLswyIWViODk~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "Lakehead University",
+                "professional": "Economics and Econometrics",
+                "countries": "加拿大 ",
+                "project": "economics",
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-10",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": 90,
+                        "reading": 26,
+                        "writing": 21,
+                        "speaking": 22,
+                        "listening": 21
+                    },
+                    "undergraduate": {
+                        "gpa": "3.57/5",
+                        "sid": 1293,
+                        "school": "双非",
+                        "subject": "经济学"
+                    }
+                },
+                "username": "momo",
+                "url": "https://offer.gter.net/details/LlYGiQJZjTf3MRDd93b1fV0NuEM5HAZUrmSoXwVwAC4n8GVjxWCZ2ruphAbWJJsJ4Bv_fdXAuJKaJpKs3Fz5XzU1ZWU~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Chicago",
+                "professional": "MACSS",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD小奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-10",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "332",
+                        "verbal": "162",
+                        "quantitative": "170",
+                        "analyticalwriting": "4.5"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "29",
+                        "writing": "27",
+                        "speaking": "24",
+                        "listening": "28"
+                    },
+                    "undergraduate": {
+                        "gpa": "89",
+                        "sid": 86,
+                        "year": 2021,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "金融"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/9oWTrpVmTM4ASpAnwgkJuqTNIyZsa2o3CDClIkdzK3mIlEgKyM8P5EuBdyaLYmCdDpREBlElNsGHGdf3eCeUPjkzYTI~",
+                "apply_resultstatus": 2
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "London School of Economics and Political Science",
+                "professional": "Economics and Econometrics (EME)",
+                "countries": "英国",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-02-19",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "332",
+                        "verbal": "162",
+                        "quantitative": "170",
+                        "analyticalwriting": "4.5"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "29",
+                        "writing": "27",
+                        "speaking": "24",
+                        "listening": "28"
+                    },
+                    "undergraduate": {
+                        "gpa": "89",
+                        "sid": 86,
+                        "year": 2021,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "金融"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/AeahkP23VMeWDp4bav8huz2pTxjToZ60c5Hg2Nxjq9ULsfGwQFhmTndQiKyI8KAmpB6DkqJkR5zVSFG_79PfaWI1OWQ~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "National University of Singapore",
+                "professional": "经济学",
+                "countries": "新加坡",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "332",
+                        "verbal": "162",
+                        "quantitative": "170",
+                        "analyticalwriting": "4.5"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "29",
+                        "writing": "27",
+                        "speaking": "24",
+                        "listening": "28"
+                    },
+                    "undergraduate": {
+                        "gpa": "89",
+                        "sid": 86,
+                        "year": 2021,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "金融"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/VV-5zYQ5NIfckXiApMJi49QQFBK7cnVr2Kup14TeVzth1uQ_iYdxnNagQQ8Lli04KIWCcJn4F8_dpte_pzcjMzU5MWY~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "National University of Singapore",
+                "professional": "MBI",
+                "countries": "新加坡",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-05",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "331",
+                        "verbal": "161",
+                        "quantitative": "170",
+                        "analyticalwriting": "4"
+                    },
+                    "toefl": {
+                        "total": "103"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.8/4",
+                        "sid": 789,
+                        "year": 2020,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "临床医学"
+                    }
+                },
+                "username": "晚睡晚起丶",
+                "url": "https://offer.gter.net/details/mDPvJaO9PTYohKXbPLNt_VGNzlicVunYeidLh3Vh85PJSzZm5NJuCY6WsTF_htUSQBs-4atptV1keFVKbfnrCzQ4OTU~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 8,
+                "schoolname": "Eidgenossische Technische Hochschule Zürich",
+                "professional": "biology",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "331",
+                        "verbal": "161",
+                        "quantitative": "170",
+                        "analyticalwriting": "4"
+                    },
+                    "toefl": {
+                        "total": "103"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.8/4",
+                        "sid": 789,
+                        "year": 2020,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "临床医学"
+                    }
+                },
+                "username": "晚睡晚起丶",
+                "url": "https://offer.gter.net/details/j0XR1yLmfZb3Qm3OBAZzpN-UzqXtFRPCIPmTooaCVa6KfoNFe2Qg9BrhOoGasugM2kzYVNvp_kdbdJZGVVhH0zU3Mjc~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "National University of Singapore",
+                "professional": "DSML",
+                "countries": "新加坡",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-11",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "321",
+                        "verbal": "152",
+                        "quantitative": "169"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "30",
+                        "writing": "26",
+                        "speaking": "23",
+                        "listening": "29"
+                    },
+                    "undergraduate": {
+                        "gpa": "90.05/100",
+                        "sid": 359,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "计算机科学与技术"
+                    }
+                },
+                "username": "wechat_D4GvTvH9W4Kj",
+                "url": "https://offer.gter.net/details/SWU9Nt0P99AGoqswyzPQI4wdTuZ3dyQsThDuaGeI-9bbsfUfalGasUMPzUbto38N8dIMihBs-k-CCP44_4ARjzJiNTE~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Eidgenossische Technische Hochschule Zürich",
+                "professional": "Geomatic Engineering",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "321",
+                        "verbal": "151",
+                        "quantitative": "170",
+                        "analyticalwriting": "4.0"
+                    },
+                    "toefl": {
+                        "total": "100",
+                        "reading": "28",
+                        "writing": "24",
+                        "speaking": "21",
+                        "listening": "27"
+                    },
+                    "undergraduate": {
+                        "gpa": "87.47 (major: 88.4)",
+                        "sid": 1393,
+                        "year": 2021,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "地理信息工程（遥感科学与技术类）"
+                    }
+                },
+                "username": "hinczhang",
+                "url": "https://offer.gter.net/details/9h22ArECyhoYHQTU3-abBG3Lq19_8I8kjaLftEqowmt83QiZF77Abf3uiUpfTF0WLmbnYlj49WEKTSNdj1uyDDViNzE~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "University of Wisconsin-Madison",
+                "professional": "Economics",
+                "countries": null,
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "undergraduate": {
+                        "gpa": "3.81",
+                        "year": 2021,
+                        "school": "美本UC系统 top30+",
+                        "subject": "经济和统计双专业"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/8HQG8JXQoD7A0CI1vpfBywOdNwtGFGO6K4BMuothIK588EafTUCu5ZUX12QwwahoerMwMQrJ8c0CRNz5e-ya8Dc4MTI~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "Georgetown University",
+                "professional": "Economics",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "undergraduate": {
+                        "gpa": "3.81",
+                        "year": 2021,
+                        "school": "美本UC系统 top30+",
+                        "subject": "经济和统计双专业"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/V42bUOEricvVxw7X51I_7g6FH1XgKyJWWlAkmExXNYA0EgsceZ4hd4YqfKlYsHAviOxJgFJUpEaL94c7kBScrzg1Zjg~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "University of Michigan",
+                "professional": "Applied Economics",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-02",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "undergraduate": {
+                        "gpa": "3.81",
+                        "year": 2021,
+                        "school": "美本UC系统 top30+",
+                        "subject": "经济和统计双专业"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/xn7aiI3T3-aBg-n2gA7N1aMsaCxDiss-ZsRup5-psVVvhFsqTUscxq58yknE0fO1h-4uy7oyPTfp6moVJX5-DjJhMDc~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "Duke University",
+                "professional": "Economics",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "undergraduate": {
+                        "gpa": "3.81",
+                        "year": 2021,
+                        "school": "美本UC系统 top30+",
+                        "subject": "经济和统计双专业"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/ODw0qbgwmPsHY_cfjSgkOEqmhpkCjiPiDGkm0CPK4KGeWG1XqgViMu5lk3aOvdVwBPS7jFp5HPpCGcEqAM2CzzczODY~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Chicago",
+                "professional": "MACSS",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "AD小奖",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-10",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "undergraduate": {
+                        "gpa": "3.81",
+                        "year": 2021,
+                        "school": "美本UC系统 top30+",
+                        "subject": "经济和统计双专业"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/zeXVIdHzNZarR0jgLQrZtmAnQhlFSpsDjy9xuXGg4vvb1fr_n0cVvhIaaBl8JcaSQ8KFDXyTtxGwbXbtg6NvdDU4MTU~",
+                "apply_resultstatus": 2
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 9,
+                "schoolname": "University of Toronto",
+                "professional": "Statistics",
+                "countries": "加拿大",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "undergraduate": {
+                        "gpa": "3.888/4 ",
+                        "year": 2021,
+                        "school": "海本",
+                        "subject": "数学&经济双学位"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/QUMpGt4FGtQ9hSN983pNBYLwnoUp9SSYsaue-LIQeTtcDts-7qoJm3FTLyg3EO6u2HaHnt3mrAyFVeRTn4bwDzQ5NTg~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Michigan - Ann Arbor",
+                "professional": "IOE",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-02-26",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "undergraduate": {
+                        "gpa": "3.888/4 ",
+                        "year": 2021,
+                        "school": "海本",
+                        "subject": "数学&经济双学位"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/LvXTQJgERcdD67R_-Wtl8n9RWMcEFRfg663zy8P0sDiuUJo7jiU41BMY_Xcj_lVjABfhBZ9gN7qZbQz0d-TtvDAwZGQ~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "NYU Shanghai",
+                "professional": "quantitative finance",
+                "countries": null,
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-15",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "315",
+                        "verbal": "150",
+                        "quantitative": "165",
+                        "analyticalwriting": "3.0"
+                    },
+                    "toefl": {
+                        "total": "96",
+                        "reading": "28",
+                        "writing": "21",
+                        "speaking": "22",
+                        "listening": "25"
+                    },
+                    "graduate": {
+                        "gpa": "87/100",
+                        "sid": 593,
+                        "school": "双非",
+                        "subject": "工程管理"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.2/5.0",
+                        "sid": 678,
+                        "year": 2017,
+                        "school": "双非",
+                        "subject": "土地资源管理"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/7q2k-ZsXhEQvlYeuu7IQlTtrNtu75IWjpQRX9Y33iZVYgyhnOmo7cal0WHGIRh1mAyT5sqDL3uCF49HdNwrCLjlmMzk~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "London School of Economics and Political Science",
+                "professional": "Econometrics and Mathematical Economics",
+                "countries": "英国",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-12",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "328"
+                    },
+                    "toefl": {
+                        "total": "107"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.53/4",
+                        "sid": 588,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "经济学"
+                    }
+                },
+                "username": "Relaxation",
+                "url": "https://offer.gter.net/details/VnvoqmJ2TmFpCvxQxvosxxJZJtE4ejzm-h2ymuP6B46__waA7ezMRsFWl_tTNP6tOynmiSghiu_WzHnHWBTmMzE5NTA~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "Duke University",
+                "professional": "Economics and Econometrics",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-09",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "328"
+                    },
+                    "toefl": {
+                        "total": "107"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.53/4",
+                        "sid": 588,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "经济学"
+                    }
+                },
+                "username": "Relaxation",
+                "url": "https://offer.gter.net/details/8c4OYg1wHToAWsaowpD55vZAmbPFQcOjZIrWB5w4TafMBD_3_dG4s3w-iIpWhZaN2gYQajYHUSL0pv5UHLmx_GZmOWY~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Columbia University",
+                "professional": "M.S.AUD",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Summer",
+                "year": 2021,
+                "noticedate": "2021-03-13",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "101"
+                    },
+                    "undergraduate": {
+                        "sid": 1805,
+                        "school": "双非",
+                        "subject": "城乡规划"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/8rnbdqPON6tzsy7XrVCjKfl72R8flKBuI2KmbULS5XLLc8s2rz6ga2CMDlTGLLYc_fhbc6PQUukiTyJDbq7qHjkxMjI~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Australian National University",
+                "professional": "Machine Learning and Computer Vision",
+                "countries": "澳大利亚",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "312",
+                        "verbal": "145",
+                        "quantitative": "167",
+                        "analyticalwriting": "3.0"
+                    },
+                    "ielts": {
+                        "total": "6.5",
+                        "reading": "7.0",
+                        "writing": "6.5",
+                        "speaking": "6.0",
+                        "listening": "7.0"
+                    },
+                    "graduate": {
+                        "gpa": "3.9",
+                        "year": 2021,
+                        "subject": "CS"
+                    },
+                    "undergraduate": {
+                        "gpa": "84/100",
+                        "sid": 513,
+                        "year": 2020,
+                        "school": "双非",
+                        "subject": "EE"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/zhghjRGy0LWWqtpJLm48YEZsP1L15kEaQz2jRsovH_3JxHX6GjicY2ugCQ3_F4V4LVsI3OScHtuiAvQUIjcijjczOGI~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 5,
+                "schoolname": "Columbia University",
+                "professional": "Bilingual and Multicultural Education",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "323",
+                        "verbal": "156",
+                        "quantitative": "167",
+                        "analyticalwriting": "3.5"
+                    },
+                    "toefl": {
+                        "total": "108",
+                        "reading": "29",
+                        "writing": "25",
+                        "speaking": "24",
+                        "listening": "30"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.58",
+                        "year": 2021,
+                        "school": "中流985",
+                        "subject": "汉语国际教育"
+                    }
+                },
+                "username": "wxyy213",
+                "url": "https://offer.gter.net/details/GBPuK8ayJHbnwkuixCdviwqmwmv8KXoH6_VouLaC453tssAU4ahMzjcd7I_orp6SNKtt1w3anlvrmVmI8l-nIDc2Nzg~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 5,
+                "schoolname": "National University of Singapore",
+                "professional": "Sociology",
+                "countries": "新加坡",
+                "project": "sociology",
+                "message": null,
+                "degree": "MPhil",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2020-12-17",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": 333,
+                        "verbal": 163,
+                        "quantitative": 170,
+                        "analyticalwriting": 4
+                    },
+                    "toefl": {
+                        "total": 110,
+                        "reading": 30,
+                        "writing": 27,
+                        "speaking": 23,
+                        "listening": 30
+                    },
+                    "undergraduate": {
+                        "gpa": "3.9/4 ",
+                        "sid": 2072,
+                        "school": "双非",
+                        "subject": "英文+心理minor"
+                    }
+                },
+                "username": "淡泊乐梦",
+                "url": "https://offer.gter.net/details/L6JyJLQ_SCtdZ9vsYeMwyWXNM6uF-Lil3e1_t-btck7Cbz_PdzhKfz88yZTeEmFARTkeiMA6-SVWbphBSe__Djg2ZWM~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "University of Southern California",
+                "professional": "Chemical Engineering",
+                "countries": "美国",
+                "project": "化学工程",
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-14",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": "7",
+                        "reading": "8.5",
+                        "writing": "6.5",
+                        "speaking": "6",
+                        "listening": "7.5"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.4 10%",
+                        "school": "双非",
+                        "subject": "化工"
+                    }
+                },
+                "username": "EdmundYI",
+                "url": "https://offer.gter.net/details/0rAJPomYV0pnMph1jw3ICN3sXFhJEjzd9u_QmSz-pISLkUAptchfa6omXx1fg0KOY3xJL3gIRLy9dtRe1XRlW2VmOTM~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Copenhagen",
+                "professional": "global health",
+                "countries": "丹麦",
+                "project": "global health",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-16",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5
+                    },
+                    "undergraduate": {
+                        "gpa": "/",
+                        "school": "双非",
+                        "subject": "marketing medicine"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/p95UYmwWPy5TK6FbCyE2xSyFntGN3r_X4AhaMqdbbu4fRELmIL6Ycvnqqwa1uweLQ6pDPx6YIv0870LVY7m4AmRkZWI~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "Toulouse School of Economics",
+                "professional": "Economics and Econometrics",
+                "countries": "法国",
+                "project": null,
+                "message": null,
+                "degree": "其它",
+                "degree_other": "M2 ETE",
+                "apply_results": "被拒",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-10",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "328",
+                        "verbal": "158",
+                        "quantitative": "170",
+                        "analyticalwriting": "4"
+                    },
+                    "toefl": {
+                        "total": "106",
+                        "reading": "27",
+                        "writing": "26",
+                        "speaking": "26",
+                        "listening": "27"
+                    },
+                    "graduate": {
+                        "gpa": "90+",
+                        "sid": 2072,
+                        "school": "双非",
+                        "subject": "应用经济学"
+                    },
+                    "undergraduate": {
+                        "gpa": "90+",
+                        "sid": 2072,
+                        "school": "双非",
+                        "subject": "电气工程及其自动化"
+                    }
+                },
+                "username": "CotedAzur",
+                "url": "https://offer.gter.net/details/zbxRqmDaJax5XZXSlfyiGOEEFXjI1F9gM70jOxQBWBljt0v-W7pjFr4O8z83KZrzibjYGjrdnx6-VLjSfDhHJGIyY2E~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "Ecole Polytechnique",
+                "professional": "Economics and Econometrics",
+                "countries": "法国",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2021,
+                "noticedate": "2021-03-12",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "328",
+                        "verbal": "158",
+                        "quantitative": "170",
+                        "analyticalwriting": "4"
+                    },
+                    "toefl": {
+                        "total": "106",
+                        "reading": "27",
+                        "writing": "26",
+                        "speaking": "26",
+                        "listening": "27"
+                    },
+                    "graduate": {
+                        "gpa": "90+",
+                        "sid": 2072,
+                        "school": "双非",
+                        "subject": "应用经济学"
+                    },
+                    "undergraduate": {
+                        "gpa": "90+",
+                        "sid": 2072,
+                        "school": "双非",
+                        "subject": "电气工程及其自动化"
+                    }
+                },
+                "username": "CotedAzur",
+                "url": "https://offer.gter.net/details/V4I5LZHk-BGJYE5SH0G6zYtQVtD5qxzHuRqE-FZSYkIoWLsRGycmZu19XT1yqPmCfzmaUWNQBeoD3A8ec0lKyTE4NTQ~",
+                "apply_resultstatus": 1
+            }
+        ]
+    }
+}

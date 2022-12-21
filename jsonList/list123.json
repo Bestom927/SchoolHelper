@@ -1,0 +1,2214 @@
+{
+    "code": 200,
+    "data": {
+        "page": 123,
+        "limit": 50,
+        "count": 105533,
+        "data": [
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Vanderbilt University",
+                "professional": "ell",
+                "countries": "美国",
+                "project": "ell",
+                "message": null,
+                "degree": "MEd",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-05",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": 104,
+                        "reading": 27,
+                        "writing": 25,
+                        "speaking": 28,
+                        "listening": 24
+                    },
+                    "undergraduate": {
+                        "gpa": "wes3.41",
+                        "sid": 27,
+                        "school": "双非",
+                        "subject": "英语"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/E3zHHNiPsMV3sPUFOxArCePS7y0whsOX66Z0LFavdKhMi7ChyYwAXV9Q3NQ_sXlPBaukt-tU3QmBsdHhafwTM2I0NWE~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Arizona State University",
+                "professional": "Communication and Media Studies",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-02",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "329",
+                        "verbal": "162",
+                        "quantitative": "167",
+                        "analyticalwriting": "4"
+                    },
+                    "ielts": {
+                        "total": "8",
+                        "reading": "8.5",
+                        "writing": "7.5",
+                        "speaking": "7",
+                        "listening": "8.5"
+                    },
+                    "graduate": {
+                        "gpa": "4.5/5.0",
+                        "sid": 655,
+                        "year": 2022,
+                        "school": "双非",
+                        "subject": "新闻与传播"
+                    },
+                    "undergraduate": {
+                        "gpa": "4.5/5.0",
+                        "sid": 655,
+                        "year": 2020,
+                        "school": "双非",
+                        "subject": "广告学"
+                    }
+                },
+                "username": "拿钢先生",
+                "url": "https://offer.gter.net/details/dO46vzwGcAoLWvWxUBTP1PCvcagCwBi2jTKK7sRmGwQpvZ-0JAhO6-MlXfs80q0Ce36EWg19XlsmzYDz3eihfDI0ZmY~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "SUNY University at Buffalo",
+                "professional": "Communication and Media Studies",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-02",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "329",
+                        "verbal": "162",
+                        "quantitative": "167",
+                        "analyticalwriting": "4"
+                    },
+                    "ielts": {
+                        "total": "8",
+                        "reading": "8.5",
+                        "writing": "7.5",
+                        "speaking": "7",
+                        "listening": "8.5"
+                    },
+                    "graduate": {
+                        "gpa": "4.5/5.0",
+                        "sid": 655,
+                        "year": 2022,
+                        "school": "双非",
+                        "subject": "新闻与传播"
+                    },
+                    "undergraduate": {
+                        "gpa": "4.5/5.0",
+                        "sid": 655,
+                        "year": 2020,
+                        "school": "双非",
+                        "subject": "广告学"
+                    }
+                },
+                "username": "拿钢先生",
+                "url": "https://offer.gter.net/details/Nd7CO-pA9d9psdRznUTnvrjjIlzjOm4UA1UDyqgpOpjpD8u926LpiPpLO_RAq_LcSCF3kxPsKIOBRxvSoeKgpzhkYjc~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "The Chinese University of Hong Kong",
+                "professional": "Communication（PhD）",
+                "countries": "香港",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2021-12-17",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "329",
+                        "verbal": "162",
+                        "quantitative": "167",
+                        "analyticalwriting": "4"
+                    },
+                    "ielts": {
+                        "total": "8",
+                        "reading": "8.5",
+                        "writing": "7.5",
+                        "speaking": "7",
+                        "listening": "8.5"
+                    },
+                    "graduate": {
+                        "gpa": "4.5/5.0",
+                        "sid": 655,
+                        "year": 2022,
+                        "school": "双非",
+                        "subject": "新闻与传播"
+                    },
+                    "undergraduate": {
+                        "gpa": "4.5/5.0",
+                        "sid": 655,
+                        "year": 2020,
+                        "school": "双非",
+                        "subject": "广告学"
+                    }
+                },
+                "username": "拿钢先生",
+                "url": "https://offer.gter.net/details/NeWVPIQ-KYoY8QZBKwSdWzUiUGQFLaDSq9Gh61MdNeFq5rJdNaXi7CZD_2cYxSO4rrnTHs5ek-fE92n9X0y9KmQxZTc~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "National University of Singapore",
+                "professional": "financial engineering",
+                "countries": "新加坡",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-20",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "94",
+                        "reading": "25",
+                        "writing": "23",
+                        "speaking": "22",
+                        "listening": "24"
+                    },
+                    "undergraduate": {
+                        "gpa": "93.5/100  专排1",
+                        "sid": 4,
+                        "year": 2022,
+                        "school": "双非",
+                        "subject": "信息管理与信息系统"
+                    }
+                },
+                "username": "坐忘",
+                "url": "https://offer.gter.net/details/A9z5Adexiy_dlsAas03crQxNfgY2yv4yWj0NrDGFlqNIYxjRwi9OR2sF-iyrmhL9wljOZ3oDn57U_PTUaiT2UWFlMmY~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 10,
+                "schoolname": "University Leiden",
+                "professional": "Computer Science",
+                "countries": "荷兰",
+                "project": "AI",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Con Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-02",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 7,
+                        "reading": 7.5,
+                        "writing": 6,
+                        "speaking": 6.5,
+                        "listening": 7.5
+                    },
+                    "undergraduate": {
+                        "gpa": "86.3% 13/134",
+                        "school": "双非",
+                        "subject": "自动化"
+                    }
+                },
+                "username": "RIn.",
+                "url": "https://offer.gter.net/details/vPWEABNvTvMXE60Fagmw3tVZhAQ8M5xdMgYhYQiAumF48e_-07TgLAvLmeWpm9uu7SjgIoR6h2AQifoHWuElYWMwMWY~",
+                "apply_resultstatus": 6
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Glasgow",
+                "professional": "Brain Sciences",
+                "countries": "英国",
+                "project": "-",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-05",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 7,
+                        "reading": 8,
+                        "writing": 6.5,
+                        "speaking": 6,
+                        "listening": 8
+                    },
+                    "undergraduate": {
+                        "gpa": "90 5%",
+                        "school": "985",
+                        "subject": "医学类"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/6GWHtodabH9-2HmU5zCtJb--EJuWroFL_z8nYbjMhIGkmQu2joAnME4y7DRge_fWBmJZQrMSI8eBuWaQUErFnTljZTI~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 5,
+                "schoolname": "Vanderbilt University",
+                "professional": "Education",
+                "countries": "美国",
+                "project": "Human Development Studies",
+                "message": null,
+                "degree": "MEd",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": 322,
+                        "verbal": 158,
+                        "quantitative": 164,
+                        "analyticalwriting": 4
+                    },
+                    "toefl": {
+                        "total": 109,
+                        "reading": 28,
+                        "writing": 26,
+                        "speaking": 26,
+                        "listening": 29
+                    },
+                    "undergraduate": {
+                        "gpa": "3.76",
+                        "sid": 601,
+                        "school": "双非",
+                        "subject": "英语教育"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/Tf4__qwVeN1Cf3_-4Mv3lwj5WrATfcslMtpWEUH7V2TUOW3IYl0bW5TLjMwhNVXSGvlx4zgqc96HVr6sEMGijTMzMTY~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "Purdue University, West Lafayette",
+                "professional": "Agricultural Economics",
+                "countries": null,
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {},
+                "username": "Kahzahnlh",
+                "url": "https://offer.gter.net/details/3yTXTEhHh_xP2nlQpejD2jB0pG5DiDJ-eXnZP7tZrvP0H1EFDsxwRw4jjqJys0wxl3j31NwbdQtyt8COFpu042VkYjg~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 5,
+                "schoolname": "University of Cambridge",
+                "professional": "Linguistics, Interpretation, and Translation",
+                "countries": "英国",
+                "project": "Theoretical and applied linguistics",
+                "message": null,
+                "degree": "MPhil",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "111",
+                        "reading": "30",
+                        "writing": "29",
+                        "speaking": "23",
+                        "listening": "29"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.97/4.00",
+                        "school": "语言类211",
+                        "subject": "英语"
+                    }
+                },
+                "username": "HappyLinGirl",
+                "url": "https://offer.gter.net/details/tJtiq83YVyuPjqsJwCMVA_xUgAPqAo86tTW9mU-mEWrAd3_fgEnFjBRlEY5El8_BZZlCH9PC9LaiL4ORaRxWPmUwYjU~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 7,
+                "schoolname": "University of Zurich",
+                "professional": "Chemistry",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "99",
+                        "reading": "29",
+                        "writing": "22",
+                        "speaking": "21",
+                        "listening": "27"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.87/4.00, 9/117",
+                        "sid": 1393,
+                        "year": 2022,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "化学"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/ySJWCpOGQmK3EEHB7YE0-TRF8Fkqloyi40fgVIYZvyyUNKbEnXKSUhA9eWablHJhW-KE-LB-Ernrcq8zYwy5yzRhMjQ~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 7,
+                "schoolname": "Swiss Federal Institute of Technology in Zurich",
+                "professional": "Chemistry",
+                "countries": "德国",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-28",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "99",
+                        "reading": "29",
+                        "writing": "22",
+                        "speaking": "21",
+                        "listening": "27"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.87/4.00, 9/117",
+                        "sid": 1393,
+                        "year": 2022,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "化学"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/-uZziTFufKOXXri_2gGN1_asJBoYEtsguFnhO8-IZ8lnMpYuFCHeB9SbRqK0mL-bNLOQHlv2JQbpOPdugWGLxmNkZDY~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 7,
+                "schoolname": "Delft University of Technology",
+                "professional": "Embedded Systems",
+                "countries": "荷兰",
+                "project": "Embedded Systems",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-25",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": 313,
+                        "verbal": 145,
+                        "quantitative": 168,
+                        "analyticalwriting": 35
+                    },
+                    "toefl": {
+                        "total": 98,
+                        "reading": 28,
+                        "writing": 23,
+                        "speaking": 21,
+                        "listening": 26
+                    },
+                    "undergraduate": {
+                        "gpa": "加权79，算术82",
+                        "sid": 7,
+                        "school": "双非",
+                        "subject": "自动化"
+                    }
+                },
+                "username": "_@",
+                "url": "https://offer.gter.net/details/VwTQdIL0UzvMqLKY5Oag4oq9Zy3maQ_M3QJFCRKvkKA71t-A4bC7-QWmnnTiWaWMt7i5avCWHvp9h16SLetR9GU1NzU~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "EIT InnoEnergy",
+                "professional": "Electrical and Electronics Engineering",
+                "countries": "荷兰",
+                "project": "SENSE",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD小奖",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-12-06",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": 313,
+                        "verbal": 145,
+                        "quantitative": 168,
+                        "analyticalwriting": 35
+                    },
+                    "toefl": {
+                        "total": 98,
+                        "reading": 28,
+                        "writing": 23,
+                        "speaking": 21,
+                        "listening": 26
+                    },
+                    "undergraduate": {
+                        "gpa": "加权79，算术82",
+                        "sid": 7,
+                        "school": "双非",
+                        "subject": "自动化"
+                    }
+                },
+                "username": "_@",
+                "url": "https://offer.gter.net/details/rMoLgOxwZfkCMSTn6qccPf64HK4In4zblZp5ncOsRDAsIi4psGIyHwLWbLxux15KoZ3W9MtpYV7oRR-446vGwDc1Yzk~",
+                "apply_resultstatus": 2
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 8,
+                "schoolname": "University of Zurich",
+                "professional": "Biomedicine",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "323",
+                        "verbal": "156",
+                        "quantitative": "167",
+                        "analyticalwriting": "4.5"
+                    },
+                    "toefl": {
+                        "total": "110",
+                        "reading": "30",
+                        "writing": "26",
+                        "speaking": "24",
+                        "listening": "30"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.88/4.00",
+                        "sid": 789,
+                        "year": 2022,
+                        "school": "浙大/复旦/南大/南开/武大/华中科大/上海交大/天大",
+                        "subject": "生物医学"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/ZBd4V__powXJjitSJRck02nUgGyYZq1PH5qxe_unTE7OfjoeujnYV3NL_pW89e6EYGUDsnHISMUh5sb8ydnC0WY0NmU~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 9,
+                "schoolname": "University of Zurich",
+                "professional": "Mathematics",
+                "countries": "瑞士",
+                "project": "Mathematics",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Con Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": 308,
+                        "verbal": 142,
+                        "quantitative": 166,
+                        "analyticalwriting": 3
+                    },
+                    "toefl": {
+                        "total": 93,
+                        "reading": 25,
+                        "writing": 23,
+                        "speaking": 22,
+                        "listening": 23
+                    },
+                    "undergraduate": {
+                        "gpa": "88/100、80/100",
+                        "sid": 458,
+                        "school": "双非",
+                        "subject": "数学与应用数学(主修学位)、保险学(二学位)"
+                    }
+                },
+                "username": "长草颜团子",
+                "url": "https://offer.gter.net/details/J6ra5F66xOgP-MVOWoyobrl_1uyzMAaUV-FYgOj9vNKFPxEBWdndO2gmdyy5wZq4-l-FEq51NDSo1rKqNaysMjY3NmE~",
+                "apply_resultstatus": 6
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "University of Leeds",
+                "professional": "Electrical and Electronics Engineering",
+                "countries": "英国",
+                "project": "dsp",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 2,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 6.5,
+                        "writing": 6,
+                        "speaking": 6,
+                        "listening": 7
+                    },
+                    "undergraduate": {
+                        "gpa": "91",
+                        "sid": 133,
+                        "school": "双非",
+                        "subject": "通信工程"
+                    }
+                },
+                "username": "esme",
+                "url": "https://offer.gter.net/details/BPRuSz2IcBsg7R6FQiQwP3KbPyUvxuUu4zTcaHtJpE88qjlHpbLLNphCZDiSznvjAKwg5bejslpdxeI0q5ZcoTBmMzM~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 7,
+                "schoolname": "University of Zurich",
+                "professional": "Chemistry",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "undergraduate": {
+                        "gpa": "GPA84.5/100",
+                        "school": "211",
+                        "subject": "应用化学"
+                    }
+                },
+                "username": "酸奶芒果大泡芙",
+                "url": "https://offer.gter.net/details/EGXmsr11XJS3eiE101X1EswuSeO3EW6Dj62ANqgfFgX4KV9ySF-RJ2dzO5qwVYyQyr2PN2rmm9J80cehxXeMuGEzZjI~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "University of Edinburgh",
+                "professional": "Electrical and Electronics Engineering",
+                "countries": "英国",
+                "project": "IMNS",
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "AD小奖",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "undergraduate": {
+                        "gpa": "75/100",
+                        "year": 2022,
+                        "school": "University of Edinburgh",
+                        "subject": "Electronics and Electrical Engineering"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/xNpDl__JXFdouo-BQqeL5uN7qdU6dOCpM11lbt9hJmTye9b24jT6fzs67KjYQpXJ_fEEFxbG95WEeIhJ3sJudjYzMTE~",
+                "apply_resultstatus": 2
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 9,
+                "schoolname": "University of Edinburgh",
+                "professional": "Mathematics",
+                "countries": "英国",
+                "project": "Computational Mathematical Finance",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": 329,
+                        "verbal": 159,
+                        "quantitative": 170,
+                        "analyticalwriting": 4
+                    },
+                    "toefl": {
+                        "total": 106,
+                        "reading": 29,
+                        "writing": 28,
+                        "speaking": 22,
+                        "listening": 27
+                    },
+                    "undergraduate": {
+                        "gpa": "88.53",
+                        "sid": 30,
+                        "school": "双非",
+                        "subject": "保险"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/C84MGVk8ZOrwUt2ITXbm7dFEXmf_gi4P501KpLCe6fQtkUmmpakNIyLf5vFL_IWH9caR6PDc3A8ecbFYGnhuIDEwOTY~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "The Chinese University of Hong Kong",
+                "professional": "seem",
+                "countries": "香港",
+                "project": "seem",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 7,
+                        "reading": 7,
+                        "writing": 6,
+                        "speaking": 7,
+                        "listening": 7
+                    },
+                    "undergraduate": {
+                        "gpa": "86 7/191",
+                        "school": "双非",
+                        "subject": "cs"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/xfJTNdCVK27Gd8Hsj_ZZ2yi5yVUXVkqAxmpoSMvZuyTXSSpvua4LYSYAf2dHL72u1ZwC0eWC_q7IR1p9foW6YzZjYjg~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Edinburgh",
+                "professional": "design for change",
+                "countries": "英国",
+                "project": "-",
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-12-20",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 8,
+                        "writing": 6.5,
+                        "speaking": 6,
+                        "listening": 6
+                    },
+                    "undergraduate": {
+                        "gpa": "后50％",
+                        "school": "双非",
+                        "subject": "mechanical engineering"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/JDfb7gsDOGtOxJta-8HhqF8Bh3koFOEfsMou-3NfnJqupHyrhJfhQ-VX4sxMYZT0znbw8RIx4UV8UgmtzmiKSWYzNTk~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Leeds",
+                "professional": "design",
+                "countries": "英国",
+                "project": "-",
+                "message": null,
+                "degree": "MA",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-01",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 8,
+                        "writing": 6.5,
+                        "speaking": 6,
+                        "listening": 6
+                    },
+                    "undergraduate": {
+                        "gpa": "后50％",
+                        "school": "双非",
+                        "subject": "mechanical engineering"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/l6gGkLV26t5bZesnl3D0AtrObGhoA4Av-rg3WbuYvDnHajbT-zw6uUJuZZ9upVIpeebPDN8sZBqNyEK-SJwbrDQ3YzE~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Loughborough University",
+                "professional": "engineering design",
+                "countries": "英国",
+                "project": "-",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-01",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 8,
+                        "writing": 6.5,
+                        "speaking": 6,
+                        "listening": 6
+                    },
+                    "undergraduate": {
+                        "gpa": "后50％",
+                        "school": "双非",
+                        "subject": "mechanical engineering"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/LhII9X3IlHoURpjExXqQblELsBxQBTvvXfjJTV6knUmgkg9NgCG_9YVQWYQwg1UjvbOohd5I9I03H2JX3FWh7mI3ZTI~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Politecnico di Milano",
+                "professional": "Design and Engineering",
+                "countries": "意大利",
+                "project": "-",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-03",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 8,
+                        "writing": 6.5,
+                        "speaking": 6,
+                        "listening": 6
+                    },
+                    "undergraduate": {
+                        "gpa": "后50％",
+                        "school": "双非",
+                        "subject": "mechanical engineering"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/iIIHsGLc_pfUX8bVItBdPHFt4rnVSD_XEEZSYPC7xZ09pbbUa9gQWhq_QSCJPw8SlxGSvANwOHb80230pkQk22YwMWQ~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 8,
+                "schoolname": "University of Zurich",
+                "professional": "Biomedicine",
+                "countries": "瑞士",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": "7",
+                        "reading": "7",
+                        "writing": "6.5",
+                        "speaking": "6",
+                        "listening": "8"
+                    },
+                    "graduate": {
+                        "year": 2022
+                    },
+                    "undergraduate": {
+                        "gpa": "85.1",
+                        "sid": 1862,
+                        "year": 2022,
+                        "school": "双非",
+                        "subject": "药学"
+                    }
+                },
+                "username": "小恐龍嘤嘤嘤",
+                "url": "https://offer.gter.net/details/HHcQVRq-aWH0Qt3WjpGnIWIbbd44WgWA0h08z6GWYQe2ShJ-U902Q_KdhS2b13yAq0HyjQhrBb_Ww5ig-ztp5zdkMGE~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Technical University of Denmark",
+                "professional": "Chemical and biochemical engineering",
+                "countries": "丹麦",
+                "project": "Chemical and biochemical engineering ",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Con Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 6.5,
+                        "writing": 6,
+                        "speaking": 5.5,
+                        "listening": 7.5
+                    },
+                    "undergraduate": {
+                        "gpa": "3.33/4.33 84/100",
+                        "sid": 10,
+                        "school": "双非",
+                        "subject": "生物工程"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/lrrdtPj_iB08NQ1GplY0jRKBY6t1bICFgP7Bh_k6ELbW9z73LcJKkflNemlot48djai1TcIw7nzCJFaj7vk8zDIwNzI~",
+                "apply_resultstatus": 6
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 8,
+                "schoolname": "KU Leuven",
+                "professional": "Biology ",
+                "countries": "比利时",
+                "project": "Biology ",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2021-12-13",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 6.5,
+                        "writing": 6,
+                        "speaking": 5.5,
+                        "listening": 7.5
+                    },
+                    "undergraduate": {
+                        "gpa": "3.33/4.33 84/100",
+                        "sid": 10,
+                        "school": "双非",
+                        "subject": "生物工程"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/cM26nugSxfOzr7Sr4fL9weIvLsiI-_rL2L50d0e8WBxS_KYXIgIgEa5L1cAPXy3qWRZgxU9V6XuKq26Z95kNnWViM2Y~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "KU Leuven",
+                "professional": "Bioscience engineering",
+                "countries": "比利时",
+                "project": "Human Health engineering",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2021-10-26",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 6.5,
+                        "writing": 6,
+                        "speaking": 5.5,
+                        "listening": 7.5
+                    },
+                    "undergraduate": {
+                        "gpa": "3.33/4.33 84/100",
+                        "sid": 10,
+                        "school": "双非",
+                        "subject": "生物工程"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/iUJMlQPBj-tbL0wVsyLHt5gQ6JPCY1ZH7d_bKxsCs0NWl-JHCI8OP3E1sT_6flzvYArTRQyf7HVpRVlq8lCM2jE4Mzk~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 2,
+                "schoolname": "Washington University in St Louis",
+                "professional": "Law",
+                "countries": "美国 ",
+                "project": "General",
+                "message": null,
+                "degree": "LLM",
+                "degree_other": null,
+                "apply_results": "AD小奖",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-05",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 7.5,
+                        "reading": 8,
+                        "writing": 7,
+                        "speaking": 6,
+                        "listening": 8.5
+                    },
+                    "undergraduate": {
+                        "gpa": "AA",
+                        "school": "五院四系",
+                        "subject": "法学"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/hUrlj_y1n6W0QB7-OApcQ3d1dpXOFFr2guvAGDpRJsHo0oTngS3Mb9wio9lLHt1uHNuEp3v3j0h99EzUTDE99TVkYjc~",
+                "apply_resultstatus": 2
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 2,
+                "schoolname": "University of Southern California",
+                "professional": "Law",
+                "countries": "美国",
+                "project": "General",
+                "message": null,
+                "degree": "LLM",
+                "degree_other": null,
+                "apply_results": "AD小奖",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2021-11-25",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 7.5,
+                        "reading": 8,
+                        "writing": 7,
+                        "speaking": 6,
+                        "listening": 8.5
+                    },
+                    "undergraduate": {
+                        "gpa": "AA",
+                        "school": "五院四系",
+                        "subject": "法学"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/KfaX0yFnzsBnAYr22m6nS3iwryTlW8BmA54-6bY_RKjgVdnZsNs_IPbWXBgZhIe9bAITR1A8kCz6wzrQfVjZ3mQxYWY~",
+                "apply_resultstatus": 2
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 2,
+                "schoolname": "Cornell University",
+                "professional": "Law",
+                "countries": "美国",
+                "project": "General ",
+                "message": null,
+                "degree": "LLM",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-01",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 7.5,
+                        "reading": 8,
+                        "writing": 7,
+                        "speaking": 6,
+                        "listening": 8.5
+                    },
+                    "undergraduate": {
+                        "gpa": "AA",
+                        "school": "五院四系",
+                        "subject": "法学"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/zcE9Cy6pBEwki-bKdhMtJWahaHOpPiCfP6kn0hhMkSvXVa1uOEi1Vk_O6bsavEsIsin3zS8xpSODWx1kzEYN6mFiYjU~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "University of British Columbia-Okanagan Campus",
+                "professional": "Electrical and Electronics Engineering",
+                "countries": "加拿大",
+                "project": null,
+                "message": null,
+                "degree": "Meng",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-03",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": "7",
+                        "reading": "6.5",
+                        "writing": "6",
+                        "speaking": "8",
+                        "listening": "7"
+                    },
+                    "undergraduate": {
+                        "gpa": "89.48/100 （3.74/4.0）",
+                        "sid": 2073,
+                        "year": 2021,
+                        "school": "双非",
+                        "subject": "能源与动力工程"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/8BXxzjGma4F7nYPLDSxTuy1NemtwBYQivF72O3k91ssGF888A7XvEZew9jKrTCE4XKW6ZVi_7DGtUJ8h_j9q3zQxNzk~",
+                "apply_resultstatus": 3
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 7,
+                "schoolname": "University of Texas, Austin",
+                "professional": "Chemistry",
+                "countries": null,
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-05",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "101",
+                        "reading": "28",
+                        "writing": "26",
+                        "speaking": "23",
+                        "listening": "24"
+                    },
+                    "undergraduate": {
+                        "sid": 655,
+                        "school": "双非",
+                        "subject": "化学"
+                    }
+                },
+                "username": "BellaXin",
+                "url": "https://offer.gter.net/details/teLZT31iQM2MK2UkG6ep6R6sO4NI0dgg3DkEJy0ksxx6_HmbSqhXhplvx3-9k2fjOdH9Ic2c3-Al0OVGZk542WE4NmI~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Purdue University, West Lafayette",
+                "professional": "Chemical Engineering",
+                "countries": null,
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-10",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "101",
+                        "reading": "28",
+                        "writing": "26",
+                        "speaking": "23",
+                        "listening": "24"
+                    },
+                    "undergraduate": {
+                        "sid": 655,
+                        "school": "双非",
+                        "subject": "化学"
+                    }
+                },
+                "username": "BellaXin",
+                "url": "https://offer.gter.net/details/KrQzrGdFBPrfSkRtNzwMVGiw5lEqZKnLxi2N2dBnqdx4rnkEoRGFcNX-cEI4Rel67_0npAyV8IviJCesSBere2I0YzY~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Cornell University",
+                "professional": "Chemical Engineering",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-01",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "101",
+                        "reading": "28",
+                        "writing": "26",
+                        "speaking": "23",
+                        "listening": "24"
+                    },
+                    "undergraduate": {
+                        "sid": 655,
+                        "school": "双非",
+                        "subject": "化学"
+                    }
+                },
+                "username": "BellaXin",
+                "url": "https://offer.gter.net/details/f9VkaELH9PZB68BMAUS1YAUSbPEDKngFC6oD5RNVXAiAOYmRRhqcRNLJ2PNlRaGorCr0U8KqUA92P9gp5j8a82Q2MjA~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Rutgers, The State University of New Jersey--New Brunswick",
+                "professional": "Communication",
+                "countries": null,
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-03",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "318",
+                        "verbal": "154",
+                        "quantitative": "164",
+                        "analyticalwriting": "3.5"
+                    },
+                    "toefl": {
+                        "total": "113",
+                        "reading": "30",
+                        "writing": "29",
+                        "speaking": "26",
+                        "listening": "28"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.72",
+                        "sid": 2,
+                        "year": 2022,
+                        "school": "双非",
+                        "subject": "传播学"
+                    }
+                },
+                "username": "Yibinruc",
+                "url": "https://offer.gter.net/details/XUL3_hLR4tihCleSZlA5Pc0KSQTPK0WJgS6H_b2-ugdzhpT3Lry2eMofEw7o3LRzk9kMRQDEZRYRiSKSW7JfgmZiZDU~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "University of Washington",
+                "professional": "Communication",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-03",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "318",
+                        "verbal": "154",
+                        "quantitative": "164",
+                        "analyticalwriting": "3.5"
+                    },
+                    "toefl": {
+                        "total": "113",
+                        "reading": "30",
+                        "writing": "29",
+                        "speaking": "26",
+                        "listening": "28"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.72",
+                        "sid": 2,
+                        "year": 2022,
+                        "school": "双非",
+                        "subject": "传播学"
+                    }
+                },
+                "username": "Yibinruc",
+                "url": "https://offer.gter.net/details/-zDkC6zLUA802dAWc07mnGdk3OXK86b2vqdbk1mwTO7mdGxbz94iGCUr4vazI3bLQER7awO7RtnWNpQYJQb-VDRmNmM~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 2,
+                "schoolname": "University of Minnesota-Twin Cities",
+                "professional": "Law",
+                "countries": null,
+                "project": null,
+                "message": null,
+                "degree": "LLM",
+                "degree_other": null,
+                "apply_results": "AD小奖",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {},
+                "username": "Fiona19961118",
+                "url": "https://offer.gter.net/details/qxIBdAU8hnxZ-tTL3T4cauMsdvy3L79SogqwQE2hfVxRmAT2T_47U83A5PrjiRK8yM5zbay5rl2GStyuz52tmTBmYjU~",
+                "apply_resultstatus": 2
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "Politecnico di Milano",
+                "professional": "music and acoustics engineering",
+                "countries": "意大利",
+                "project": "acoustics",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Con Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 8,
+                        "writing": 5.5,
+                        "speaking": 5.5,
+                        "listening": 6
+                    },
+                    "undergraduate": {
+                        "gpa": "83",
+                        "sid": 600,
+                        "school": "双非",
+                        "subject": "计算机科学与技术"
+                    }
+                },
+                "username": "青铜",
+                "url": "https://offer.gter.net/details/pccM8E_58lQEm0wa96nCxEdOt12KRzTOxfhyVf62bEkLqf_FmBuN0KtE-b9Sh7m-0nc8cNZNbO-9IST93nr7UzM2YTU~",
+                "apply_resultstatus": 6
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "University Of Southampton",
+                "professional": "Acoustical and Vibration Engineering",
+                "countries": "英国",
+                "project": "Acoustical and Vibration Engineering",
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Con Offer",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2021-10-18",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": 6.5,
+                        "reading": 8,
+                        "writing": 5.5,
+                        "speaking": 5.5,
+                        "listening": 6
+                    },
+                    "undergraduate": {
+                        "gpa": "83",
+                        "sid": 600,
+                        "school": "双非",
+                        "subject": "计算机科学与技术"
+                    }
+                },
+                "username": "青铜",
+                "url": "https://offer.gter.net/details/uANzjoK_XDFWIrrRsm2RPoKCKnVO0PLFBVPvy14eOzVhpLMZV6qKeUk2yWjmfZR8PPxGm0Ihl-o8dNaVjPpP5TA4Nzc~",
+                "apply_resultstatus": 6
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "The Pennsylvania State University",
+                "professional": "Economics and Econometrics",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "331",
+                        "verbal": "161",
+                        "quantitative": "170",
+                        "analyticalwriting": "3"
+                    },
+                    "toefl": {
+                        "total": "104",
+                        "reading": "30",
+                        "writing": "22",
+                        "speaking": "22",
+                        "listening": "30"
+                    },
+                    "graduate": {
+                        "gpa": "3.9/4.3",
+                        "year": 2021,
+                        "school": "Some school in HK"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.8/4.3",
+                        "year": 2020,
+                        "school": "Some school in HK",
+                        "subject": "Math & Econ"
+                    }
+                },
+                "username": "屠龙大师",
+                "url": "https://offer.gter.net/details/l4YQAz_fTBABtt1KtiiY1obxBLAYcMWirvFSmezzDPwFCpkV24QrMdnKYENRWKtM_79ETG2tjVygxOaPY7HyQjk0NGI~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "The Hong Kong University of Science and Technology",
+                "professional": "Economics（PhD）",
+                "countries": "香港",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-31",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "331",
+                        "verbal": "161",
+                        "quantitative": "170",
+                        "analyticalwriting": "3"
+                    },
+                    "toefl": {
+                        "total": "104",
+                        "reading": "30",
+                        "writing": "22",
+                        "speaking": "22",
+                        "listening": "30"
+                    },
+                    "graduate": {
+                        "gpa": "3.9/4.3",
+                        "year": 2021,
+                        "school": "Some school in HK"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.8/4.3",
+                        "year": 2020,
+                        "school": "Some school in HK",
+                        "subject": "Math & Econ"
+                    }
+                },
+                "username": "屠龙大师",
+                "url": "https://offer.gter.net/details/V0_10PEgHCiE-skGeAvn7o4CqUAfWrHR47oOt3Xt8_bj3Un_gOeGtfzf7dREKTZK_FEwRmwZm5q_3R8UZmCpb2MwZDM~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 10,
+                "schoolname": "Queens University at Kingston",
+                "professional": "Computer Science",
+                "countries": null,
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "IELTS",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "ielts": {
+                        "total": "7.5",
+                        "reading": "8.5",
+                        "writing": "6.5",
+                        "speaking": "6",
+                        "listening": "8.5"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.6/4",
+                        "sid": 1284,
+                        "year": 2019,
+                        "school": "双非",
+                        "subject": "CS"
+                    }
+                },
+                "username": "cizezsy",
+                "url": "https://offer.gter.net/details/bvQeoJF_UM2rQwSgGgafH3O8mdh_sQpZvf2fF5BMLXO2MeogU1OEV3cjSXLMhuah37LmID-eorKrbmNhNGQ~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 2,
+                "schoolname": "University of California Hastings College of the Law",
+                "professional": "Law",
+                "countries": "美国",
+                "project": null,
+                "message": null,
+                "degree": "LLM",
+                "degree_other": null,
+                "apply_results": "Offer",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-04",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "109",
+                        "reading": "29",
+                        "writing": "28",
+                        "speaking": "23",
+                        "listening": "29"
+                    },
+                    "graduate": {
+                        "sid": 1,
+                        "school": "清华/北大/中科大",
+                        "subject": "法学"
+                    },
+                    "undergraduate": {
+                        "gpa": "1",
+                        "sid": 46,
+                        "year": 2018,
+                        "school": "双非",
+                        "subject": "法学"
+                    }
+                },
+                "username": "mystar2021",
+                "url": "https://offer.gter.net/details/fCk03HJkBzDyuwLu-5AWj9GaSdHw5pC6LelGth5Z_nql8S63KqO0OeoaVuIBsdeLGjUaE5CPO_vUgxLyrf3objRmMzk~",
+                "apply_resultstatus": 1
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": null,
+                "schoolname": "Duke University",
+                "professional": "sociogy",
+                "countries": "美国",
+                "project": "socioogy ",
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-03",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": 316,
+                        "verbal": 151,
+                        "quantitative": 165,
+                        "analyticalwriting": 3
+                    },
+                    "toefl": {
+                        "total": 94,
+                        "reading": 24,
+                        "writing": 21,
+                        "speaking": 23,
+                        "listening": 26
+                    },
+                    "graduate": {
+                        "gpa": "3.9",
+                        "school": "海外硕士亚洲top10",
+                        "subject": "社会学"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.0",
+                        "sid": 1,
+                        "school": "清华/北大/中科大",
+                        "subject": "公共管理"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/iO5tCGiYhlTa6YegXSPDKtV5c0SyovebeflbtHMrNi8R0S4LX-Kpi4JBMCI52lRBRzdLzJqsY4ocqlvFyQbOWThmYmQ~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 5,
+                "schoolname": "Stanford University",
+                "professional": "sociology",
+                "countries": "美国",
+                "project": "socioogy ",
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": null,
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-03",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 1,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": 316,
+                        "verbal": 151,
+                        "quantitative": 165,
+                        "analyticalwriting": 3
+                    },
+                    "toefl": {
+                        "total": 94,
+                        "reading": 24,
+                        "writing": 21,
+                        "speaking": 23,
+                        "listening": 26
+                    },
+                    "graduate": {
+                        "gpa": "3.9",
+                        "school": "海外硕士亚洲top10",
+                        "subject": "社会学"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.0",
+                        "sid": 1,
+                        "school": "清华/北大/中科大",
+                        "subject": "公共管理"
+                    }
+                },
+                "username": "匿名用户",
+                "url": "https://offer.gter.net/details/3E5YQcrSev-_QjZHI78xpgLPIwHECaFGDYwOab31iLJxsdnIMR5c8mC7asz9B1IRghntw8ZeEWEm1tuVViiX62QyMzc~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 4,
+                "schoolname": "The Hong Kong University of Science and Technology",
+                "professional": "Economics（PhD）",
+                "countries": "香港",
+                "project": null,
+                "message": null,
+                "degree": "PhD",
+                "degree_other": null,
+                "apply_results": "被拒",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-02",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "gre": {
+                        "total": "323",
+                        "verbal": "153",
+                        "quantitative": "170",
+                        "analyticalwriting": "4"
+                    },
+                    "toefl": {
+                        "total": "105",
+                        "reading": "30",
+                        "writing": "27",
+                        "speaking": "20",
+                        "listening": "28"
+                    },
+                    "graduate": {
+                        "gpa": "3.85",
+                        "year": 2022,
+                        "school": "欧洲top10",
+                        "subject": "economics"
+                    },
+                    "undergraduate": {
+                        "gpa": "3.36",
+                        "sid": 978,
+                        "year": 2020,
+                        "school": "双非",
+                        "subject": "bioengineering and economics (minor)"
+                    }
+                },
+                "username": "须弥佛",
+                "url": "https://offer.gter.net/details/bayD91RPvnWsPGQ75umEfym-rvL9sEpVzYlCX7zHeMJ1lPGcJznpcHAkNlvapVSonaLSQJY43MIGy2FZGSRF3DNiZWY~",
+                "apply_resultstatus": 4
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 1,
+                "schoolname": "The University of Melbourne",
+                "professional": "Computer Software Engineering",
+                "countries": "澳大利亚",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD小奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-01-20",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "100",
+                        "writing": "23",
+                        "speaking": "23"
+                    },
+                    "undergraduate": {
+                        "gpa": "89",
+                        "year": 2022,
+                        "school": "985",
+                        "subject": "计算机科学与技术"
+                    }
+                },
+                "username": "a木杉",
+                "url": "https://offer.gter.net/details/ZRyYqPHk6GrFY9igZfuDBhxeHOYw6pCcZmhUCC2dpzKbGe49euRROriYOWwIwTcwK1OT0RVucXq74WYL2wUd_mQyMTI~",
+                "apply_resultstatus": 2
+            },
+            {
+                "backgroundid": null,
+                "title": null,
+                "majortype": 10,
+                "schoolname": "VU University Amsterdam",
+                "professional": "Computer Science",
+                "countries": "荷兰",
+                "project": null,
+                "message": null,
+                "degree": "MSc",
+                "degree_other": null,
+                "apply_results": "AD无奖",
+                "apply_lang": "TOEFL",
+                "useperformance": null,
+                "performance": null,
+                "semester": "Fall",
+                "year": 2022,
+                "noticedate": "2022-02-02",
+                "view": 1,
+                "reward": null,
+                "selected": 0,
+                "anonymous": 0,
+                "readrestriction": 0,
+                "userinformation": {
+                    "toefl": {
+                        "total": "100",
+                        "writing": "23",
+                        "speaking": "23"
+                    },
+                    "undergraduate": {
+                        "gpa": "89",
+                        "year": 2022,
+                        "school": "985",
+                        "subject": "计算机科学与技术"
+                    }
+                },
+                "username": "a木杉",
+                "url": "https://offer.gter.net/details/eHb3UTTIdfODWcsRiNHXqVdx___fX8NZpfT4bgtQCANVZV5FYr1x8qToPzd_qKXNL8YBYYpd6Mvsupehn6qB9DVjZTU~",
+                "apply_resultstatus": 3
+            }
+        ]
+    }
+}
